@@ -1,3 +1,3 @@
-def reverse_each_word(phrase)
-phrase.each do |rsentence|
-  rsentence.
+def reverse_each_word(sentences)
+sentences.each do |sentence|
+sentence.
